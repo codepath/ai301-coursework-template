@@ -58,8 +58,10 @@ currently written, with the reasoning behind its current form.]
 
 **Trade-offs**
 
-[What the quoted check gives up: an issue whose result it changes, a canary re-run
-with `--only`, or a case it is accepted to miss.]
+[What the quoted check gives up. Any one of these is a complete answer: an issue whose
+result it changes, a canary you re-ran with `--only`, a case you accept it will miss, or a
+stated reason nothing changed elsewhere. "Nothing changed, and here is how I know" earns
+the point in full when the reason follows.]
 
 ---
 
