@@ -48,7 +48,11 @@ with its date and the friction that drove it; your weekly Toolkit
 entries are the source.]
 
 **Evidence:** [show, don't claim: an output excerpt, a before/after
-pair, or a dated commit reference, inline here.]
+pair, or a dated commit reference, inline here. Draw it from your real
+term work where you can - a catch this tool actually made, a
+before/after from your own repo or PR - which is graded separately from
+whether an artifact is present at all. A short, telling excerpt beats a
+pasted transcript.]
 
 **Its honest limitation:** [what it still gets wrong, or where it
 stops; one real limit, in plain words.]
