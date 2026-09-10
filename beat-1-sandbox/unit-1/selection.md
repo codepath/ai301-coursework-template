@@ -67,13 +67,18 @@ the point in full when the reason follows.]
 
 ## Selection rationale
 
-Not graded. Retained for your own reference, and as the basis for the claim comment
-you write in Unit 2.
+Graded on whether all three are answered, in your own words. Not on how good the
+reasoning is, and not on length — a short honest answer to each earns the full marks.
+This is also the basis for the claim comment you write in Unit 2.
 
-- The issue's fit to your interests and to the time available.
-- What the verdict identified correctly, and what you weighed that the rubric could
-  not.
-- The anticipated difficulty in claiming it.
+**Selection rationale**
+
+[Answer all three:
+
+1. The issue's fit to your interests and to the time available.
+2. What the verdict identified correctly, and what you weighed that the rubric could
+   not.
+3. The anticipated difficulty in claiming it.]
 
 ---
 
