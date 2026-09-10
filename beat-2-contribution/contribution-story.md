@@ -52,10 +52,29 @@ starting below: what you built or changed that week, what broke, and
 what you changed because of it. The blocks tell the story where it
 happened; these entries are the toolkit's own timeline.
 
+All four entries are graded. Keep every heading below, and fill each
+one in the week it belongs to.
+
 **Unit 5: [one line on the tool work]**
 
 [2-4 sentences: what you built (the scout, your strategy), what broke
 or fell short, what changed because of it.]
+
+**Unit 6: [one line on the tool work]**
+
+[2-4 sentences: the voice-guard, the repo-memory file. What broke or
+fell short, and what changed because of it. "Nothing broke" counts when
+it is true - say how you know.]
+
+**Unit 7: [one line on the tool work]**
+
+[2-4 sentences: the ship-gate and your gate manifest. What it produced
+on your real branch, what fought you, what changed because of it.]
+
+**Unit 8: [one line on the tool work]**
+
+[2-4 sentences: the PR-monitor and your playbook. What it read, what it
+drafted, what you did with the draft.]
 
 ---
 
