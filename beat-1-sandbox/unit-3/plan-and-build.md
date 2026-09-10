@@ -59,8 +59,10 @@ favour of it.]
 
 **Trade-offs**
 
-[Every check gives something up. Name what yours does: a package whose result it changes, a
-canary you re-ran with `--only`, or a case you accept it will miss.]
+[Every check gives something up. Any one of these is a complete answer: a package whose
+result it changes, a canary you re-ran with `--only`, a case you accept it will miss, or a
+stated reason nothing changed elsewhere. "Nothing changed, and here is how I know" earns
+the point in full when the reason follows.]
 
 ---
 
