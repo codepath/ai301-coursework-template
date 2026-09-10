@@ -37,7 +37,7 @@ middle tier and never fails you.
 
 Copy the entry shape below once per featured tool and fill it there.
 
-### [Tool name]
+**[Tool name]**
 
 **What it is, and the judgment hole I wrote:** [what the tool does,
 and the part of it that is your judgment: the rubric, strategy,

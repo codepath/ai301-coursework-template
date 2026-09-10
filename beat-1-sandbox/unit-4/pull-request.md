@@ -13,12 +13,12 @@ heading is not graded.
 
 ## Your pull request
 
-### Pull request
+**Pull request**
 
 [Link to the pull request you opened. It must be the pull request's own page on the Path
 Review repo, not your fork's branch page.]
 
-### Branch
+**Branch**
 
 [The name of the branch the pull request comes from, exactly as it appears in your fork.
 The naming shape is a type prefix, then the issue number, then a short description. **The
@@ -30,25 +30,25 @@ a name carrying any other number does not satisfy this field.]
 Answer all four sections. Quote source text directly; paraphrase does not satisfy these
 fields.
 
-### Run history
+**Run history**
 
 [The agreement score of each run you did, in order. A single run is a complete answer if
 only one run occurred. **The last score in your list must match the agreement line in the
 `eval-run.txt` you committed** — that file is the record of your final run.]
 
-### Package analysis
+**Package analysis**
 
 [Pick one scored package (`pkg-01` through `pkg-20` — the four `calib-` packages are never
 scored). Name it by id, say what your rubric decided and what the gold label said, and
 explain why your rubric read it that way.]
 
-### Check rationale
+**Check rationale**
 
 [Quote one check from the `rubric.md` you uploaded to `tools/pr-precheck/`, exactly as it reads now.
 Then say why it reads that way — what you revised to get there, or what you rejected in
 favour of it.]
 
-### Trade-offs
+**Trade-offs**
 
 [Every check gives something up. Name what yours does: a package whose result it changes, a
 canary you re-ran with `--only`, or a case you accept it will miss.]

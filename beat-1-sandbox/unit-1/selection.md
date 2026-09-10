@@ -13,12 +13,12 @@ wrong heading is not graded.
 
 ## Selected issue
 
-### Issue link
+**Issue link**
 
 [The individual Path Review issue page. A link to the repository or the issue list
 does not satisfy this field.]
 
-### Verdict output
+**Verdict output**
 
 [Your skill's live-mode output for this issue, pasted verbatim and ending with the
 fenced JSON verdict block. A summary does not satisfy this field.]
@@ -39,24 +39,24 @@ paste the output here, including the closing JSON block
 
 Quote source text directly in each field below. Paraphrase does not satisfy them.
 
-### Run history
+**Run history**
 
 [The agreement score of each run you did, in order. A single run is a complete answer if
 only one run occurred. **The last score in your list must match the agreement line in the
 `eval-run.txt` you committed** — that file is the record of your final run.]
 
-### Issue analysis
+**Issue analysis**
 
 [One scored issue, identified by id (`issue-01` through `issue-20`; the `calib-`
 issues are not scored). State your rubric's decision, the gold label, and the
 reasoning that produced your rubric's result.]
 
-### Check rationale
+**Check rationale**
 
 [One check from the `rubric.md` uploaded to `tools/issue-select/`, quoted as it is
 currently written, with the reasoning behind its current form.]
 
-### Trade-offs
+**Trade-offs**
 
 [What the quoted check gives up: an issue whose result it changes, a canary re-run
 with `--only`, or a case it is accepted to miss.]

@@ -13,7 +13,7 @@ heading is not graded.
 
 ## Your identity upstream
 
-### GitHub username
+**GitHub username**
 
 [Your GitHub username, exactly as it appears on your profile — no `@`, no profile URL. Your
 comments upstream are identified by this name.]
@@ -22,12 +22,12 @@ comments upstream are identified by this name.]
 
 ## Posted upstream
 
-### Claim comment
+**Claim comment**
 
 [Link to the comment where you claimed the issue. Use the comment's own permalink, not the
 issue page on its own.]
 
-### Reproduction comment
+**Reproduction comment**
 
 [Link to the comment where you posted your reproduction. It must record the environment
 (OS, relevant versions, code state), steps a stranger could follow, and what you observed.]
@@ -37,25 +37,25 @@ issue page on its own.]
 Answer all four sections. Quote source text directly; paraphrase does not satisfy these
 fields.
 
-### Run history
+**Run history**
 
 [The agreement score of each run you did, in order. A single run is a complete answer if
 only one run occurred. **The last score in your list must match the agreement line in the
 `eval-run.txt` you committed** — that file is the record of your final run.]
 
-### Package analysis
+**Package analysis**
 
 [Pick one scored package (`pkg-01` through `pkg-20` — the four `calib-` packages are never
 scored). Name it by id, say what your rubric decided and what the gold label said, and
 explain why your rubric read it that way.]
 
-### Check rationale
+**Check rationale**
 
 [Quote one check from the `rubric.md` you uploaded to `tools/repro-check/`, exactly as it reads now.
 Then say why it reads that way — what you revised to get there, or what you rejected in
 favour of it.]
 
-### Trade-offs
+**Trade-offs**
 
 [Every check gives something up. Name what yours does: a package whose result it changes, a
 canary you re-ran with `--only`, or a case you accept it will miss.]

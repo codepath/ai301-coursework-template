@@ -39,6 +39,7 @@ fill it there):
 
 ```text
 **Toolkit**
+
 - Tool: [which tool did this phase's work, and how you used it]
 - What it produced: [described in a sentence or a short excerpt]
 - Difficulties: [what fought you or fell short, or "none met"]
@@ -51,7 +52,7 @@ starting below: what you built or changed that week, what broke, and
 what you changed because of it. The blocks tell the story where it
 happened; these entries are the toolkit's own timeline.
 
-### Unit 5: [one line on the tool work]
+**Unit 5: [one line on the tool work]**
 
 [2-4 sentences: what you built (the scout, your strategy), what broke
 or fell short, what changed because of it.]
@@ -70,6 +71,7 @@ wild search and what you changed or would change, or what convinced
 you it held up.]
 
 **Toolkit**
+
 - Tool: issue-scout (your scout: your search strategy, your rubric),
   and how you used it
 - What it produced: [the scan and its verdict on this issue, described]
@@ -80,23 +82,24 @@ you it held up.]
 
 ## Understanding the Issue
 
-### Problem Description
+**Problem Description**
 
 [In your own words, what is broken or missing?]
 
-### Expected Behavior
+**Expected Behavior**
 
 [What should happen?]
 
-### Current Behavior
+**Current Behavior**
 
 [What actually happens?]
 
-### Affected Components
+**Affected Components**
 
 [Which parts of the codebase are involved?]
 
 **Toolkit**
+
 - Tool:
 - What it produced:
 - Difficulties:
@@ -106,18 +109,18 @@ you it held up.]
 
 ## Reproduction Process
 
-### Environment Setup
+**Environment Setup**
 
 [Notes on setting up your local development environment: challenges
 you faced, how you solved them.]
 
-### Steps to Reproduce
+**Steps to Reproduce**
 
 1. [Step 1]
 2. [Step 2]
 3. [Observed result]
 
-### Reproduction Evidence
+**Reproduction Evidence**
 
 - **Commit showing reproduction:** [link to commit in your fork]
 - **Screenshots/logs:** [if applicable]
@@ -126,6 +129,7 @@ you faced, how you solved them.]
   the maintainer belongs here and costs you nothing]
 
 **Toolkit**
+
 - Tool:
 - What it produced:
 - Difficulties:
@@ -135,17 +139,17 @@ you faced, how you solved them.]
 
 ## Solution Approach
 
-### Analysis
+**Analysis**
 
 [Your analysis of the root cause: what is causing the issue, traced
 to the files and functions involved.]
 
-### Proposed Solution
+**Proposed Solution**
 
 [High-level description of your fix approach, and what you are
 deliberately NOT changing.]
 
-### Implementation Plan
+**Implementation Plan**
 
 1. [Modify file X to do Y]
 2. [Add or change Z]
@@ -155,6 +159,7 @@ deliberately NOT changing.]
 why. A recorded deviation is honest work; silent drift is not.]
 
 **Toolkit**
+
 - Tool:
 - What it produced:
 - Difficulties:
@@ -170,6 +175,7 @@ suite or checks with the outcome shown. "Tests pass" with nothing
 observable named is not a strategy.]
 
 **Toolkit**
+
 - Tool:
 - What it produced:
 - Difficulties:
@@ -182,15 +188,16 @@ observable named is not a strategy.]
 [A running log, added to as you work. Date each entry. What you
 built, decisions you made when you made them, wrong turns included.]
 
-### [Date]
+**[Date]**
 
 [Entry]
 
-### [Date]
+**[Date]**
 
 [Entry]
 
 **Toolkit**
+
 - Tool:
 - What it produced:
 - Difficulties:
@@ -216,6 +223,7 @@ status is a fact you record, never a grade: the PR is graded as
 opened.]
 
 **Toolkit**
+
 - Tool:
 - What it produced:
 - Difficulties:
@@ -225,16 +233,16 @@ opened.]
 
 ## Learnings and Reflections
 
-### Technical Skills Gained
+**Technical Skills Gained**
 
 [What you learned technically, named concretely.]
 
-### Challenges Overcome
+**Challenges Overcome**
 
 [What was hard and how you solved it; point at the real events, the
 Toolkit blocks above are full of them.]
 
-### What I'd Do Differently Next Time
+**What I'd Do Differently Next Time**
 
 [Reflection on your process.]
 
