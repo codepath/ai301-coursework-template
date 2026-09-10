@@ -111,8 +111,10 @@ you it held up.]
 
 **Environment Setup**
 
-[Notes on setting up your local development environment: challenges
-you faced, how you solved them.]
+[What a stranger would need to stand this up: your operating system,
+the relevant versions (language, runtime, package manager, the project
+itself), and how you set the project up. Then the challenges you faced
+and how you solved them, or that none came up.]
 
 **Steps to Reproduce**
 
@@ -249,6 +251,11 @@ Toolkit blocks above are full of them.]
 ---
 
 ## Resources Used
+
+[What actually helped, not a reading list. List things this story
+already shows you using: the doc you followed to set the environment
+up, the thread that explained the bug, the person who answered you.
+One real entry beats ten plausible ones.]
 
 - [Link to documentation that helped]
 - [Discussion, issue, or post that helped]
