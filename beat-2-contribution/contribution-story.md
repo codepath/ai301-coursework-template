@@ -80,22 +80,24 @@ drafted, what you did with the draft.]
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs in your own words: how you searched, what your scan
-surfaced, what your scout's verdict said, why this issue fits your
-profile, and what you hope to learn. If your scout's verdict on it
-was reject and you chose it anyway, say so here and say why; choosing
-against your own tool silently is what loses points. Close with an
-honest read of the tool itself: where the scout fell short on a real
-wild search and what you changed or would change, or what convinced
-you it held up. **Record the link to your claim comment in this section too.**
-Not claimed yet? Write `claim pending` and today's date where the link goes,
-and add the link the moment your claim lands.]
+[1-2 paragraphs in your own words: where the issue came from, which
+issues your scout graded, what its verdict and difficulty note said
+about this one, why this issue fits your profile, and what you hope
+to learn. If your scout's verdict on it was reject and you chose it
+anyway, say so here and say why; choosing against your own tool
+silently is what loses points. Close with an honest read of the tool
+itself: where the scout fell short on real issues and what you changed
+or would change, or what convinced you it held up. **Record the link
+to your claim comment in this section too.** Not claimed yet? Write
+`claim pending` and today's date where the link goes, and add the link
+once you post your claim.]
 
 **Toolkit**
 
 - Tool: issue-scout (your scout: your search strategy, your rubric),
   and how you used it
-- What it produced: [the scan and its verdict on this issue, described]
+- What it produced: [its verdict and difficulty note on this issue,
+  described]
 - Difficulties: [where it fell short, or "none met" if none did]
 - What changed: [what you patched or would update, or "nothing"]
 
